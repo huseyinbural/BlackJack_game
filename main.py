@@ -72,4 +72,4 @@ while not cond:
                 checker(toplam_bilgisayar_eli, toplam_player_eli)
                 print(f"your cards :{player_hand},current score:{toplatıcı(player_hand)}")
                 print(f"computers first card:{computer_hand[0]},score{toplatıcı(computer_hand)}")
-    if choice=="n"
+                # bu bir deneme yorumudur
